@@ -1,33 +1,21 @@
-👨‍💻 Tarun — Full Stack Developer | Future SDE
+# 👋 Hey, I'm Tarun — Future SDE | Full Stack Dev in Training
 
-🚀 I'm a developer who believes in clarity, structure, and building things that matter (and having a little fun doing it). I specialize in crafting scalable full-stack applications with:
+🔧 I’m currently building my skills in:
+- Java DSA for interview problem-solving
+- Full-Stack Web Development using the MERN stack
+- DevOps tools like Docker & GitHub Actions
+- AWS Cloud (starting June 25!)
 
-MERN Stack (MongoDB, Express, React, Node.js)
+🚀 Passionate about:
+- Solving real-world problems through clean code
+- Building scalable web apps
+- Learning fast, growing faster
 
-Java (Programming Fundamentals & DSA)
+---
 
-DevOps tools like GitHub Actions and Docker
+## 🔍 Featured Projects (coming soon)
+- `portfolio` — personal website built with React
+- `auth-system-api` — Node + JWT + MongoDB backend
+- `DSA-Java` — daily Java problem-solving & patterns
 
-AWS for cloud infrastructure and deployment best practices
-
-🛠️ I build to learn, and I learn fast. Every project I touch is intentional — focused on real-world functionality, clean code, and meaningful impact. If it's not elegant and useful, I’m not done yet.
-
-💡 What I'm into:
-
-Product-based development
-
-Startup engineering
-
-System design and deployment
-
-Developer tooling and efficiency
-
-📂 Featured Projects
-
-portfolio — Clean, responsive personal site built with React & Tailwind (in progress)
-
-auth-system-api — Full backend auth system using JWT, Node, and MongoDB
-
-DSA-Java — Java-based Leetcode patterns & solutions, clean and commented
-
-📬 Reach me: tarunpandore8@gmail.com
+📫 Reach me: tarunpandore8@gmail.com
