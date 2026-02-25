@@ -11,7 +11,7 @@ I work across frontend, backend, and cloud — not because I’m chasing titles,
 ### Languages
 - Java
 - C++
-- JavaScript
+- TypeScript
 - Dart
 - Python (basic)
 
