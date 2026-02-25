@@ -1,21 +1,71 @@
-# 👋 Hey, I'm Tarun — Future SDE | Full Stack Dev in Training
+# 👋 Hi, I'm Tarun
 
-🔧 I’m currently building my skills in:
-- Java (Core programming, backend systems, and problem-solving)
-- Full-Stack Web Development using the MERN stack
-- DevOps tools like Docker & GitHub Actions
-- AWS for cloud infrastructure and deployment best practices
+I’m a final-year Computer Science student who builds things to truly understand them.
 
-🚀 Passionate about:
-- Solving real-world problems through clean code
-- Building scalable web apps
-- Learning fast, growing faster
+I work across frontend, backend, and cloud — not because I’m chasing titles, but because I like understanding how systems connect end-to-end. I’ve built and deployed real projects, experimented with infrastructure, and learned that clean architecture and clarity matter more than flashy features.
 
 ---
 
-## 🔍 Featured Projects (coming soon)
-- `portfolio` — personal website built with React
-- `auth-system-api` — Node + JWT + MongoDB backend
-- `DSA-Java` — daily Java problem-solving & patterns
+## 💻 Tech Stack
 
-📫 Reach me: tarunpandore8@gmail.com
+### Languages
+- Java
+- C++
+- JavaScript
+- Dart
+- Python (basic)
+
+### Frontend
+- React
+- Flutter
+- HTML, CSS
+
+### Backend
+- Node.js
+- Express.js
+- REST APIs
+- JWT Authentication
+- WebRTC (real-time communication)
+
+### Cloud & DevOps
+- AWS (EC2, S3, RDS, IAM, CloudWatch)
+- Docker
+- GitHub Actions (CI/CD)
+- Linux
+
+### Databases
+- MongoDB
+- MySQL
+- Neon (PostgreSQL) (Learning and Using for my upcoming projects)
+- Firebase Firestore
+
+---
+
+## 🛠 Projects
+
+### 🧠 Therapique
+A mental health platform with secure video sessions and booking functionality.  
+Built using React, Node.js, MongoDB, and WebRTC. Deployed on AWS.
+
+### 🌙 MoonLit
+A Flutter-based e-commerce mobile app focused on clean UI and smooth user experience.
+
+---
+
+## 🧠 Current Focus
+
+- Strengthening core computer science fundamentals (OOP, systems thinking)
+- Improving backend architecture skills
+- Deepening understanding of AWS and DevOps practices
+- Writing cleaner, more maintainable code
+
+---
+
+## 🎬 Beyond Code
+
+I’m interested in filmmaking and storytelling. It shapes how I think about user experience, structure, and clarity in the software I build.
+
+---
+
+📫 **Email:** tarunpandore8@gmail.com  
+🔗 **LinkedIn:** https://linkedin.com/in/tarunpandore  
