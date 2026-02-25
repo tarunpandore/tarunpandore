@@ -17,6 +17,9 @@ I work across frontend, backend, and cloud — not because I’m chasing titles,
 
 ### Frontend
 - React
+- Next.js
+- Tailwindcss
+- shadcn
 - Flutter
 - HTML, CSS
 
